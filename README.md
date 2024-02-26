@@ -11,7 +11,6 @@ The application will be invoked by using the following command:
 
 node index.js
 
-<img width="727" alt="image" src="https://github.com/MeerKar/Readme-Generator/assets/116701851/6408a6b6-4b7e-4a0f-b1d6-8c3194f4c880">
 
 
 
