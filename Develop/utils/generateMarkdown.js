@@ -2,7 +2,9 @@
 // If there is no license, return an empty string
 const generateMarkdown = (data) => {
   return `# ${data.title}
-  ![Github licence](http://img.shields.io/badge/license-${data.license}-blue.svg)
+![Github licence](http://img.shields.io/badge/license-${encodeURIComponent(
+    data.license
+  )}-blue.svg)
 
   
   ## Description 
@@ -13,9 +15,8 @@ const generateMarkdown = (data) => {
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)
+* [Github](#github)
 * [Credits](#credit)
   
   
@@ -28,14 +29,12 @@ const generateMarkdown = (data) => {
   ## License 
   This project is license under ${data.license}
 
-  ## Contributing 
-  ${data.contributors}
-
+  
   ## Tests
   ${data.test}
 
-  ## Questions
-Any questions about this project??
+  ## Github
+
 Github link at https://github.com/${data.github}
 
  ## Credits

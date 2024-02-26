@@ -1,39 +1,36 @@
-# ReadMe Generator
-  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+# Read me
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   
   ## Description 
-  Creating a README.md file that can efficently document the projects and make them more approachable
+  boot camp
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)
-* [Credits](#credi
+* [Github](#github)
+* [Credits](#credit)
   
   
   ## Installation 
-  Installing inqurier      
+  inqurirer
 
   ## Usage 
-  I can use it as a document where my projects can be shown efficently
+  kjhkjklh
 
   ## License 
   This project is license under MIT
 
-  ## Contributing 
-  Others can create their own versions 
-
+  
   ## Tests
   npm test
 
-  ## Questions
-Any questions about this project??
-Github link at https://github.com/MeerKar
+  ## Github
+
+Github link at https://github.com/Meerkar
 
  ## Credits
-  MeeraKarnavar
+  Meera
