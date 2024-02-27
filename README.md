@@ -20,6 +20,9 @@ node index.js
 
 https://drive.google.com/file/d/1paPh78okfPTEkvdg3TQJHwKymvJIG0yi/view
 
+[Untitled_ Feb 26, 2024 2_28 PM (3).webm](https://github.com/MeerKar/Readme-Generator/assets/116701851/512487a1-6891-4f9b-b0b9-54d3cf997139)
+
+
 ## Problem
 
 To run inquirer and interact with its prompts took a bit longer than i expected . Then came with the gitignore which accidently created on the wrong path, and finally with the Screencastify where i am introduced for the first time
